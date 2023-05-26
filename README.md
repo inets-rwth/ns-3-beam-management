@@ -1,5 +1,5 @@
 
-The Network Simulator, Version 3, 5G-NR beam management framework
+The Network Simulator 3, 5G-NR beam management framework
 ================================
 
 This ns-3 code is based on the work proposed in the paper:
