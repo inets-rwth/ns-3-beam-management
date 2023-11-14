@@ -4,7 +4,7 @@ The Network Simulator 3, 5G-NR beam management framework
 
 This ns-3 code is based on the work proposed in the paper:
 
-[1] A. Ichkov, O. Atasoy, P. Mähönen and L. Simić, "Full-Stack ns-3 Framework for the Evaluation of 5G-NR Beam Management in Non-Standalone Downlink Millimeter-Wave Networks," in Proc. IEEE WoWMoM 2022, Belfast UK, June 2023. (https://ieeexplore.ieee.org/document/9842765)
+[1] A. Ichkov, O. Atasoy, P. Mähönen and L. Simić, "Full-Stack ns-3 Framework for the Evaluation of 5G-NR Beam Management in Non-Standalone Downlink Millimeter-Wave Networks," in Proc. IEEE WoWMoM 2022, Belfast UK, June 2023.
 
 The code implements a full-stack 5G-NR-compliant framework with realistic scheduling, transmission, 
 and reception of 5G-NR downlink control signals, namely synchronization signal block (SSB) and 
